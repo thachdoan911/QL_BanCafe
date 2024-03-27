@@ -1,0 +1,56 @@
+D:\TH_HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\bin\Debug\QL_BanCafe.exe
+D:\TH_HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\bin\Debug\QL_BanCafe.pdb
+D:\TH_HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.csprojResolveAssemblyReference.cache
+D:\TH_HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmDangnhap.resources
+D:\TH_HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.Properties.Resources.resources
+D:\TH_HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.csproj.GenerateResource.Cache
+D:\TH_HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.exe
+D:\TH_HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.pdb
+D:\TH_HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmHeThongCafe.resources
+D:\TH_HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmDanhmuc.resources
+D:\TH_HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmThongke.resources
+D:\TH_HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FormThongtincanhan.resources
+D:\TH_HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmTimkiem.resources
+C:\Users\ADMIN\Desktop\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.exe
+C:\Users\ADMIN\Desktop\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.pdb
+C:\Users\ADMIN\Desktop\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\bin\Debug\QL_BanCafe.exe
+C:\Users\ADMIN\Desktop\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\bin\Debug\QL_BanCafe.pdb
+C:\Users\ADMIN\Desktop\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmDangnhap.resources
+C:\Users\ADMIN\Desktop\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmDanhmuc.resources
+C:\Users\ADMIN\Desktop\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmThongke.resources
+C:\Users\ADMIN\Desktop\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmThongtincanhan.resources
+C:\Users\ADMIN\Desktop\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmTimkiem.resources
+C:\Users\ADMIN\Desktop\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmHeThongCafe.resources
+C:\Users\ADMIN\Desktop\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmAdmin.resources
+C:\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.exe
+C:\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.pdb
+C:\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\bin\Debug\QL_BanCafe.exe
+C:\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\bin\Debug\QL_BanCafe.pdb
+C:\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.csprojResolveAssemblyReference.cache
+C:\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmDangnhap.resources
+C:\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmAdmin.resources
+C:\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmDanhmuc.resources
+C:\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmThongke.resources
+C:\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmThongtincanhan.resources
+C:\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmTimkiem.resources
+C:\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmHeThongCafe.resources
+C:\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.Properties.Resources.resources
+C:\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.csproj.GenerateResource.Cache
+D:\TH-HQT-CSDL\TH HQTCSDL\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.exe
+D:\TH-HQT-CSDL\TH HQTCSDL\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.pdb
+D:\TH-HQT-CSDL\TH HQTCSDL\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\bin\Debug\QL_BanCafe.exe
+D:\TH-HQT-CSDL\TH HQTCSDL\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\bin\Debug\QL_BanCafe.pdb
+D:\TH-HQT-CSDL\TH HQTCSDL\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmDangnhap.resources
+D:\TH-HQT-CSDL\TH HQTCSDL\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmAdmin.resources
+D:\TH-HQT-CSDL\TH HQTCSDL\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmDanhmuc.resources
+D:\TH-HQT-CSDL\TH HQTCSDL\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmThongke.resources
+D:\TH-HQT-CSDL\TH HQTCSDL\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmThongtincanhan.resources
+D:\TH-HQT-CSDL\TH HQTCSDL\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmTimkiem.resources
+D:\TH-HQT-CSDL\TH HQTCSDL\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.FrmHeThongCafe.resources
+D:\TH-HQT-CSDL\TH HQTCSDL\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.Properties.Resources.resources
+D:\TH-HQT-CSDL\TH HQTCSDL\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.csproj.GenerateResource.Cache
+D:\TH-HQT-CSDL\TH HQTCSDL\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.csproj.AssemblyReference.cache
+D:\TH-HQT-CSDL\TH HQTCSDL\TH HQTCSDL\Đồ án_Hệ thống bán cafe\QL_BanCafe\QL_BanCafe\obj\Debug\QL_BanCafe.csproj.CoreCompileInputs.cache
